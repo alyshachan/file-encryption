@@ -1,0 +1,16 @@
+The goals of this block project are to:
+
+Consider the ethical implications of your code and develop responsible software documentation.
+Analyze various copyright licenses and demonstrate an understanding of their implications by providing a well-reasoned justification for a chosen license.
+
+Part 1: Coding
+Develop a small program that demonstrates a security/ethical hacking concept. This could include, but is not limited to (feel free to be creative with this):
+
+Part 2: Host Your Project Publicly on GitHub
+Create a public GitHub repository for your project. Commit and push your code file(s) from Part 1 to the repo.
+
+Part 3: Choosing a Copyright License
+Choose and apply a copyright licenseLinks to an external site. for your repository. Make sure you commit and push a LICENSE.txt or LICENSE.md file.
+
+Submission Instructions
+Submit one PDF document that includes your license justification and a link to your GitHub repo. Make sure that your repo is publicly accessible and the required files have been pushed (at a minimum, your repo should have your code, a README, and a LICENSE).
